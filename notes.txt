@@ -1,0 +1,20 @@
+- add to github
+- create streamlit comm cloud account 
+- link repo
+
+
+
+
+create repo
+
+git init
+
+?link to my github account
+
+
+
+
+
+tortoise 
+
+
