@@ -17,4 +17,12 @@ git init
 
 tortoise 
 
+streamlit community cloud
+=========================
+Potentially needs to be a public github repo
+(github codespaces == VS code web app - not needed)
+make chaneges & commit then reload the app
+
+
+
 
