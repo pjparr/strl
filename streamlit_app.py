@@ -17,4 +17,8 @@ df = pd.DataFrame({
   'second column': [10, 20, 30, 4099999] 
 }) 
 
+
+# test out some charts - read from data file and display
+
+
 df
